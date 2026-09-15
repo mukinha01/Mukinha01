@@ -18,6 +18,51 @@
 
 ---
 
+## 🐍 Minhas contribuições em movimento
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukinha01&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 💻 Meu terminal
+
+```bash
+samuel@mukinha01:~$ whoami
+
+> Estudante SENAI
+> Desenvolvedor em evolução
+> Comunicador
+> Futuro empreendedor
+
+samuel@mukinha01:~$ current_mission
+
+> Construir projetos reais
+> Evoluir no backend
+> Entrar no mercado
+> Unir tecnologia + negócios
+
+samuel@mukinha01:~$ status
+
+> learning...
+> building...
+> improving...
+> 🚀 ready for opportunities
+---
+
 ## 👨‍💻 Sobre mim
 
 ```javascript
