@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mukinha01/Mukinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:2563EB&height=190&section=header&text=Samuel%20Santos%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tecnologia%20%E2%80%A2%20Neg%C3%B3cios%20%E2%80%A2%20Comunica%C3%A7%C3%A3o&descAlignY=55&descSize=18" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Desenvolvimento+de+Sistemas+%40+SENAI;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Tecnologia+com+vis%C3%A3o+de+neg%C3%B3cio;Sempre+aprendendo.+Sempre+construindo.+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="mailto:samuel1277santos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/mukinha01">
+  <img src="https://img.shields.io/badge/GitHub-mukinha01-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+```javascript
+const samuel = {
+  local: "Cotia, SP 🇧🇷",
+  formacao: [
+    "Desenvolvimento de Sistemas — SENAI Cotia",
+    "Ensino Médio — SESI Cotia 432"
+  ],
+  interesses: [
+    "Tecnologia",
+    "Negócios",
+    "Comunicação",
+    "Vendas",
+    "Empreendedorismo"
+  ],
+  perfil: "Comunicativo, curioso, prático e focado em resultado",
+  objetivo: "Construir soluções que resolvam problemas reais 🚀"
+};
