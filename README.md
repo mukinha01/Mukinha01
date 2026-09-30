@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/LEVEL-17-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEVEL-67-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CLASS-Tech%20%2B%20Business-2563EB?style=for-the-badge" />
 
 <br><br>
